@@ -1,6 +1,6 @@
 # Ecosystems stability and resilience
 
-This page contains code for the article "**Tree cover change proves stability and instability in tropical ecosystems**" currently *under review*.
+This page contains code for the article "**Tree cover change proves stability and instability in tropical ecosystems**" currently *in preperation*.
 
 
 It includes:
