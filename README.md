@@ -1,1 +1,1 @@
-# Ecosystem_stability_and_resilience
+# Ecosystem stability and resilience
