@@ -1,1 +1,1 @@
-Extract the files in *.zip and directly using as the infut for the analysis.
+Extract the files in *.zip diretly in this folder and use them as the input for the analyses.
