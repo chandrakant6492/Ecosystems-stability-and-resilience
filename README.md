@@ -1,6 +1,6 @@
 # Ecosystems stability and resilience
 
-This page contains code for the article "**Tree cover change proves stability and instability in tropical ecosystems**" currently *in preperation*.
+This page contains code for the article "**Hydroclimatic adaptation critical to the resilience of tropical forests**" currently *under review in Global Change Biology*.
 
 
 It includes:
