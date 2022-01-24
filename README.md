@@ -8,7 +8,8 @@ It includes:
 2. Code for analysing 'resilience and Supplementary Fig. 6'
 3. Code for analysing 'Supplementary Fig. 3 and 4'
 4. Code for calcualting resilience ('Fig. 4')
-5. Input data for the analyses
+5. Code for Google Earth Engine 
+6. Input data for the analyses
 
 \
 *Coded by:*\
