@@ -1,6 +1,6 @@
 # Ecosystems stability and resilience
 
-This page contains code for the article "**Hydroclimatic adaptation critical to the resilience of tropical forests**" currently *under review in Global Change Biology*.
+This page contains code for the article "**Hydroclimatic adaptation critical to the resilience of tropical forests**" published in *Global Change Biology* (https://doi.org/10.1111/gcb.16115).
 
 
 It includes:
